@@ -1,5 +1,7 @@
-### Hi I am Kyungrok Park.
+### Hi, Welcome to my repo!
+I am Kyungrok Park.
 I am in my third year studying economics and statistics at University of Toronto
+
 
 <!--
 **KyungrokP/KyungrokP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
