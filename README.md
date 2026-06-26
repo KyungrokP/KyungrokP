@@ -1,6 +1,6 @@
 ### Hi, Welcome to my repo!
 I am Kyungrok Park.
-I am in my third year studying economics and statistics at University of Toronto
+I am currently working on KV cache compression for LLM model, and trying to explore and adapt different mathematical and statistical methods. 
 
 
 <!--
