@@ -1,6 +1,7 @@
 ### Hi, Welcome to my repo!
 I am Kyungrok Park.
-I am currently working on KV cache compression for LLM model, and trying to explore and adapt different mathematical and statistical methods. 
+I am currently working on KV cache compression for LLM, and trying to explore and adapt different mathematical and statistical methods. 
+I hope many of my repos can help you understand modern LLM!
 
 
 <!--
